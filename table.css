@@ -1,0 +1,41 @@
+.image {
+    height: 30px;
+   text-align: center;
+}
+.hide {
+    color: burlywood;
+    padding: 1px;
+}
+.blue {
+    background-color: steelblue;
+    padding: 8px;
+}
+.sky {
+    background-color: skyblue;
+    padding: 8px;
+}
+.green {    
+    background-color: lawngreen;
+    padding: 8px;
+}
+.chocolate {
+    background-color: rgb(145, 69, 15);
+    text-align: center;
+    padding: 8px;
+}
+.orange {
+    background-color: orangered;
+    padding: 8px;
+}
+.size {
+    margin: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 10px;
+    font-variant: small-caps;
+}
+td {
+    border-radius: 2px;
+    text-align: left;
+    font-family: fantasy;
+
+}
