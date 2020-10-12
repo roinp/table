@@ -1,41 +1,51 @@
-.image {
-    height: 30px;
-   text-align: center;
+td {
+    border-radius: 2px;
+    text-align: left;
+    font-family: fantasy;
 }
-.hide {
+
+td.hide {
     color: burlywood;
     padding: 1px;
 }
-.blue {
+
+td.blue {
     background-color: steelblue;
     padding: 8px;
 }
-.sky {
+
+td.sky {
     background-color: skyblue;
     padding: 8px;
 }
-.green {    
+
+td.green {    
     background-color: lawngreen;
     padding: 8px;
 }
-.chocolate {
+
+td.chocolate {
     background-color: rgb(145, 69, 15);
-    text-align: center;
     padding: 8px;
 }
-.orange {
+
+td.orange {
     background-color: orangered;
     padding: 8px;
 }
-.size {
+
+td.center {
+    text-align: center;
+}
+
+td .size {
     margin: 0%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 10px;
     font-variant: small-caps;
 }
-td {
-    border-radius: 2px;
-    text-align: left;
-    font-family: fantasy;
 
+td img {
+    height: 30px;
+   text-align: center;
 }
